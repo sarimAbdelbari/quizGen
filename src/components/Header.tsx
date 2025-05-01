@@ -7,7 +7,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto flex items-center justify-between">
         <div className="flex items-center space-x-2">
           <BookOpen size={28} className="text-white" />
-          <h1 className="text-2xl font-bold">PDF Quiz Generator</h1>
+          <h1 className="text-2xl font-bold">PDF Quiz Generator Salem Fares Cv Chwiya</h1>
         </div>
         <p className="text-sm text-blue-100 hidden md:block">
           Upload a PDF and generate custom quizzes
